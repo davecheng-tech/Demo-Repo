@@ -21,7 +21,7 @@ public class Sketch extends PApplet {
         noStroke();
         circle(300, 300, 200);      // Draw a circle at the centre 
         
-        System.out.println("Hello, world!");
+        System.out.println("Hello, Earth!!!!! zmoggggSDYJGFHSJFGS");
     }
 
     /** Loops continuously - use for animation, dynamic drawings */
