@@ -20,6 +20,8 @@ public class Sketch extends PApplet {
         fill(242, 19, 224);         // Magenta fill, no outline
         noStroke();
         circle(300, 300, 200);      // Draw a circle at the centre 
+        
+        System.out.println("Hello, world!");
     }
 
     /** Loops continuously - use for animation, dynamic drawings */
